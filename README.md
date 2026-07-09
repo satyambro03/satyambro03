@@ -35,7 +35,7 @@
   <img src="https://github-trophies.vercel.app/?username=satyambro03&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
-### ✍️ Random Dev Quote
+<br>
 
 
 <div align="center">
