@@ -25,28 +25,18 @@
 
 
 
-</div><br>
-
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
+</div>
+<!-- <br> -->
+<!-- <div align="center">   🏆 GitHub Trophies  uper add kar na hia to try
   <img src="https://github-trophies.vercel.app/?username=satyambro03&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
-
-<br>
-
-
+ -->
+<!-- <br> -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=satyambro03&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=satyambro03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=satyambro03&limit=5&theme=dark&combine_all_yearly_contributions=true)
