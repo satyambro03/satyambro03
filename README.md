@@ -29,7 +29,6 @@
 <!-- <div align="center">   🏆 GitHub Trophies  uper add kar na hia to try
   <img src="https://github-trophies.vercel.app/?username=satyambro03&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
-
  -->
 <!-- <br> -->
 <div align="center">
